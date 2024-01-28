@@ -21,7 +21,7 @@ https://github.com/yaya131993/DisneyQuiz1
 
 Screenshoot
 
-![Screenshot](./assets/quizDis-demo.gif.jpeg)
+[DisQuizExample.webm](https://github.com/yaya131993/DisneyQuiz1/assets/153569050/b956abbd-0d0a-44db-acab-f98eca57126e)
 
 
 
